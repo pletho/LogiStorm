@@ -1,0 +1,17 @@
+# BEHAVIOR SPEC
+
+## Load State
+
+CREATED
+→ MOVING
+→ QUEUED
+→ BLOCKED
+→ ARRIVED
+→ EXIT
+
+## Actor State
+
+IDLE
+→ RUNNING
+→ BLOCKED
+→ RECOVERING
